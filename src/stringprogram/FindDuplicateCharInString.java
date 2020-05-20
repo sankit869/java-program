@@ -33,3 +33,5 @@ public class FindDuplicateCharInString {
         }
     }
 }
+
+//select dpt , count(*) from table group by dep;
